@@ -1,0 +1,3 @@
+*.pyc
+sensitive.xml
+__pychache__
