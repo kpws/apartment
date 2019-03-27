@@ -1,3 +1,6 @@
 *.pyc
 sensitive.xml
 __pychache__
+personalData.py
+*.tex
+*.pdf
